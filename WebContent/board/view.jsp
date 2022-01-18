@@ -75,9 +75,10 @@
 		</tr>
 		<tr>
 			<td colspan="2">
-				<input type = "button" value="수정"><input type="button" value="삭제"><input type="button" value="좋아요"  id="likebtn" onclick="like()"><input type="button" value="리스트" onclick="location.href='./list.jsp'">
+				<input type = "button" value="수정"><input type="button" value="삭제"><input type="button" value="좋아요"  id="like" onclick="like()"><input type="button" value="리스트" onclick="location.href='./list.jsp'">
  			</td>
 		</tr>
 	</table>
+
 </body>
 </html>

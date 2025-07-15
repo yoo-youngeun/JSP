@@ -25,7 +25,7 @@
 
 ---
 
-## 📝 실습 파일 구조
+## 📝 실습 파일 구조  
 ├── src/  
 │ ├── index.jsp // 메인 페이지 예제  
 │ ├── sessionExample.jsp // Session 읽기/쓰기 실습   

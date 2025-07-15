@@ -7,11 +7,11 @@
 - **JSP (JavaServer Pages)**  
   - 기본 문법, 디렉티브, 암시적 객체 활용  
 - **JSTL (JSP Standard Tag Library)**  
-  - `<c:out>`, `<c:set>`, `<c:forEach>`, `<c:if>`, `<c:choose>` 등 Core 태그 사용 학습 :contentReference[oaicite:2]{index=2}  
+  - `<c:out>`, `<c:set>`, `<c:forEach>`, `<c:if>`, `<c:choose>` 등 Core 태그 사용 학습
 - **EL (Expression Language)**  
-  - `${sessionScope.name}`, `${param.xxx}` 등의 표현식 사용 :contentReference[oaicite:3]{index=3}  
+  - `${sessionScope.name}`, `${param.xxx}` 등의 표현식 사용
 - **Session 관리**  
-  - `session.setAttribute()` → JSP/JSTL 및 서블릿에서 조회 :contentReference[oaicite:4]{index=4}
+  - `session.setAttribute()` → JSP/JSTL 및 서블릿에서 조회
 
 ---
 

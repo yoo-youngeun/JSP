@@ -1,8 +1,8 @@
-# 📘 JSP Study Repository
+## 📘 JSP Study Repository
 
 **학습 내용:** JSP, JSTL, Session 등을 활용한 웹 애플리케이션 구현
 
-## 🛠️ 학습 스택 및 주제
+### 🛠️ 학습 스택 및 주제
 
 - **JSP (JavaServer Pages)**  
   - 기본 문법, 디렉티브, 암시적 객체 활용  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧩 주요 기능 정리
+### 🧩 주요 기능 정리
 
 - **Session 활용 예제**  
   - 로그인 플로우, 사용자 정보 저장 및 화면 표시
@@ -25,15 +25,18 @@
 
 ---
 
-## 📝 실습 파일 구조  
+### 📝 실습 파일 구조  
+
 ├── src/  
-│ ├── index.jsp // 메인 페이지 예제  
+│ ├── index.jsp // 메인 페이지 예제   
 │ ├── sessionExample.jsp // Session 읽기/쓰기 실습   
 │ ├── jstlExample.jsp // JSTL <c:forEach>, <c:if> 예제   
 │ └── web.xml // 서블릿 매핑 및 설정   
 └── lib/   
-└── jstl-1.2.jar // JSTL 라이브러리 파일    
+└── jstl-1.2.jar // JSTL 라이브러리 파일  
+  
 ---
+
 
 ## ⚙️ 실행 환경 설정
 
